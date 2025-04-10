@@ -1,0 +1,2155 @@
+
+====== Processing RPM = 12800 (Index 1/5) ======
+istar_minimumloss Converged in 4 iterations:
+istar_minimumloss = 0.55
+Calculated Choke Incidence Angle (ic1): -6.529558 degrees
+Calculated Stall Incidence Angle (is1): 11.811757 degrees
+
+Mach-corrected Choke Incidence (ic): -3.30 deg
+Mach-corrected Stall Incidence (is): 6.69 deg
+Mach-corrected Mid-range Incidence (im): 0.55 deg
+--- Mach Incidence Correction  Complete ---
+
+  -- Processing Incidence = -2.30 degrees (Index 1/10) --
+
+--- Final Result ---
+delta* (Design Deviation Angle): 2.329270 degrees
+  Calculated off-design deviation  = 2.13 degrees
+Warning: Flow approaching choked condition: W2/a = 0.950142 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.950317 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.950488 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.950656 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.950821 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.950983 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.951141 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.951297 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.951449 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.951599 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.951745 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.951889 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.952030 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.952169 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.952305 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.952438 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.952569 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.952697 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.952823 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.952947 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.953069 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.953188 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.953305 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.953420 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.953532 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.953643 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.953751 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.953858 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.953963 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.954066 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.954166 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.954266 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.954363 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.954458 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.954552 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.954644 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.954735 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.954824 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.954911 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.954997 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.955081 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.955164 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.955245 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.955325 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.955403 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.955480 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.955556 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.955630 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.955703 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.955775 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.955845 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.955915 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.955983 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.956050 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.956115 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.956180 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.956243 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.956306 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.956367 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.956427 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.956486 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.956544 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.956601 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.956658 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.956713 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.956767 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.956820 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.956873 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.956924 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.956975 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.957025 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.957073 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.957122 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.957169 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.957215 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.957261 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.957306 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.957350 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.957393 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.957436 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.957478 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.957519 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.957560 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.957599 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.957639 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.957677 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.957715 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.957752 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.957789 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.957825 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.957860 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.957895 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.957929 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.957963 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Flow approaching choked condition: W2/a = 0.957996 
+> In calculate_rotor_outlet (line 92)
+  In Untitled3 (line 79) 
+Warning: Did not converge after 200 iterations. Final difference: 0.035126 
+> In calculate_rotor_outlet (line 137)
+  In Untitled3 (line 79) 
+
+--- Final Rotor Exit Properties ---
+Outlet Axial Velocity (Cm2): 245.1392 m/s
+Outlet Absolute Flow Angle (alpha2): 62.87 deg
+Outlet Static Pressure (P2): 94564.60 Pa
+Outlet Static Temperature (T2): 287.24 K
+Outlet Density (rho2): 1.1469 kg/m^3
+Outlet Absolute Velocity (C2): 537.57 m/s
+Number of iterations: 200
+Converged: false
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.353825 degrees
+  Calculated off-design deviation  = 4.20 degrees
+
+--- Calculating Stator Exit Properties ---
+Stator Incidence Angle (is_stator): 22.87 deg
+Converged after 7 iterations.
+
+--- Final Stator Exit Properties ---
+Outlet Axial Velocity (Cm3): 143.4981 m/s
+Outlet Absolute Flow Angle (alpha3): -5.80 deg
+Outlet Absolute Velocity (C3): 144.24 m/s
+Outlet Static Pressure (P3): 247319.05 Pa
+Outlet Static Temperature (T3): 386.68 K
+Outlet Density (rho3): 2.2283 kg/m^3
+Number of iterations: 7
+Converged: true
+    Results: Mass Flow = 34.9107 kg/s, PR = 2.6774, Efficiency = 0.8615
+
+  -- Processing Incidence = -1.31 degrees (Index 2/10) --
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.839025 degrees
+  Calculated off-design deviation  = 4.77 degrees
+Converged after 41 iterations.
+
+--- Final Rotor Exit Properties ---
+Outlet Axial Velocity (Cm2): 182.9246 m/s
+Outlet Absolute Flow Angle (alpha2): 53.54 deg
+Outlet Static Pressure (P2): 140035.59 Pa
+Outlet Static Temperature (T2): 322.53 K
+Outlet Density (rho2): 1.5126 kg/m^3
+Outlet Absolute Velocity (C2): 307.82 m/s
+Number of iterations: 41
+Converged: true
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.804672 degrees
+  Calculated off-design deviation  = 4.73 degrees
+
+--- Calculating Stator Exit Properties ---
+Stator Incidence Angle (is_stator): 13.54 deg
+Converged after 14 iterations.
+
+--- Final Stator Exit Properties ---
+Outlet Axial Velocity (Cm3): 232.3303 m/s
+Outlet Absolute Flow Angle (alpha3): -5.27 deg
+Outlet Absolute Velocity (C3): 233.32 m/s
+Outlet Static Pressure (P3): 120386.66 Pa
+Outlet Static Temperature (T3): 309.70 K
+Outlet Density (rho3): 1.3542 kg/m^3
+Number of iterations: 14
+Converged: true
+    Results: Mass Flow = 34.3518 kg/s, PR = 1.5934, Efficiency = 0.8419
+
+  -- Processing Incidence = -0.31 degrees (Index 3/10) --
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.798337 degrees
+  Calculated off-design deviation  = 4.76 degrees
+Converged after 37 iterations.
+
+--- Final Rotor Exit Properties ---
+Outlet Axial Velocity (Cm2): 178.0763 m/s
+Outlet Absolute Flow Angle (alpha2): 54.32 deg
+Outlet Static Pressure (P2): 141207.22 Pa
+Outlet Static Temperature (T2): 322.68 K
+Outlet Density (rho2): 1.5246 kg/m^3
+Outlet Absolute Velocity (C2): 305.32 m/s
+Number of iterations: 37
+Converged: true
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.772072 degrees
+  Calculated off-design deviation  = 4.74 degrees
+
+--- Calculating Stator Exit Properties ---
+Stator Incidence Angle (is_stator): 14.32 deg
+Converged after 12 iterations.
+
+--- Final Stator Exit Properties ---
+Outlet Axial Velocity (Cm3): 219.5259 m/s
+Outlet Absolute Flow Angle (alpha3): -5.26 deg
+Outlet Absolute Velocity (C3): 220.46 m/s
+Outlet Static Pressure (P3): 126530.63 Pa
+Outlet Static Temperature (T3): 313.47 K
+Outlet Density (rho3): 1.4063 kg/m^3
+Number of iterations: 12
+Converged: true
+    Results: Mass Flow = 33.7055 kg/s, PR = 1.6198, Efficiency = 0.8587
+
+  -- Processing Incidence = 0.69 degrees (Index 4/10) --
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.756228 degrees
+  Calculated off-design deviation  = 4.76 degrees
+Converged after 32 iterations.
+
+--- Final Rotor Exit Properties ---
+Outlet Axial Velocity (Cm2): 173.8783 m/s
+Outlet Absolute Flow Angle (alpha2): 55.01 deg
+Outlet Static Pressure (P2): 141547.46 Pa
+Outlet Static Temperature (T2): 322.72 K
+Outlet Density (rho2): 1.5280 kg/m^3
+Outlet Absolute Velocity (C2): 303.20 m/s
+Number of iterations: 32
+Converged: true
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.742672 degrees
+  Calculated off-design deviation  = 4.75 degrees
+
+--- Calculating Stator Exit Properties ---
+Stator Incidence Angle (is_stator): 15.01 deg
+Converged after 11 iterations.
+
+--- Final Stator Exit Properties ---
+Outlet Axial Velocity (Cm3): 209.4554 m/s
+Outlet Absolute Flow Angle (alpha3): -5.25 deg
+Outlet Absolute Velocity (C3): 210.34 m/s
+Outlet Static Pressure (P3): 131016.35 Pa
+Outlet Static Temperature (T3): 316.45 K
+Outlet Density (rho3): 1.4424 kg/m^3
+Number of iterations: 11
+Converged: true
+    Results: Mass Flow = 32.9859 kg/s, PR = 1.6362, Efficiency = 0.8641
+
+  -- Processing Incidence = 1.69 degrees (Index 5/10) --
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.712665 degrees
+  Calculated off-design deviation  = 4.76 degrees
+Converged after 19 iterations.
+
+--- Final Rotor Exit Properties ---
+Outlet Axial Velocity (Cm2): 169.8984 m/s
+Outlet Absolute Flow Angle (alpha2): 55.67 deg
+Outlet Static Pressure (P2): 141439.35 Pa
+Outlet Static Temperature (T2): 322.74 K
+Outlet Density (rho2): 1.5268 kg/m^3
+Outlet Absolute Velocity (C2): 301.24 m/s
+Number of iterations: 19
+Converged: true
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.713751 degrees
+  Calculated off-design deviation  = 4.76 degrees
+
+--- Calculating Stator Exit Properties ---
+Stator Incidence Angle (is_stator): 15.67 deg
+Converged after 10 iterations.
+
+--- Final Stator Exit Properties ---
+Outlet Axial Velocity (Cm3): 200.7921 m/s
+Outlet Absolute Flow Angle (alpha3): -5.24 deg
+Outlet Absolute Velocity (C3): 201.63 m/s
+Outlet Static Pressure (P3): 134513.07 Pa
+Outlet Static Temperature (T3): 319.01 K
+Outlet Density (rho3): 1.4690 kg/m^3
+Number of iterations: 10
+Converged: true
+    Results: Mass Flow = 32.2050 kg/s, PR = 1.6463, Efficiency = 0.8626
+
+  -- Processing Incidence = 2.69 degrees (Index 6/10) --
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.667614 degrees
+  Calculated off-design deviation  = 4.76 degrees
+Converged after 31 iterations.
+
+--- Final Rotor Exit Properties ---
+Outlet Axial Velocity (Cm2): 165.9361 m/s
+Outlet Absolute Flow Angle (alpha2): 56.33 deg
+Outlet Static Pressure (P2): 141086.79 Pa
+Outlet Static Temperature (T2): 322.77 K
+Outlet Density (rho2): 1.5229 kg/m^3
+Outlet Absolute Velocity (C2): 299.33 m/s
+Number of iterations: 31
+Converged: true
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.683908 degrees
+  Calculated off-design deviation  = 4.78 degrees
+
+--- Calculating Stator Exit Properties ---
+Stator Incidence Angle (is_stator): 16.33 deg
+Converged after 9 iterations.
+
+--- Final Stator Exit Properties ---
+Outlet Axial Velocity (Cm3): 192.9318 m/s
+Outlet Absolute Flow Angle (alpha3): -5.22 deg
+Outlet Absolute Velocity (C3): 193.74 m/s
+Outlet Static Pressure (P3): 137361.68 Pa
+Outlet Static Temperature (T3): 321.31 K
+Outlet Density (rho3): 1.4894 kg/m^3
+Number of iterations: 9
+Converged: true
+    Results: Mass Flow = 31.3731 kg/s, PR = 1.6521, Efficiency = 0.8567
+
+  -- Processing Incidence = 3.69 degrees (Index 7/10) --
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.621041 degrees
+  Calculated off-design deviation  = 4.77 degrees
+Converged after 34 iterations.
+
+--- Final Rotor Exit Properties ---
+Outlet Axial Velocity (Cm2): 162.0215 m/s
+Outlet Absolute Flow Angle (alpha2): 57.00 deg
+Outlet Static Pressure (P2): 140482.53 Pa
+Outlet Static Temperature (T2): 322.79 K
+Outlet Density (rho2): 1.5162 kg/m^3
+Outlet Absolute Velocity (C2): 297.48 m/s
+Number of iterations: 34
+Converged: true
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.653359 degrees
+  Calculated off-design deviation  = 4.80 degrees
+
+--- Calculating Stator Exit Properties ---
+Stator Incidence Angle (is_stator): 17.00 deg
+Converged after 9 iterations.
+
+--- Final Stator Exit Properties ---
+Outlet Axial Velocity (Cm3): 185.7862 m/s
+Outlet Absolute Flow Angle (alpha3): -5.20 deg
+Outlet Absolute Velocity (C3): 186.56 m/s
+Outlet Static Pressure (P3): 139570.90 Pa
+Outlet Static Temperature (T3): 323.39 K
+Outlet Density (rho3): 1.5036 kg/m^3
+Number of iterations: 9
+Converged: true
+    Results: Mass Flow = 30.4993 kg/s, PR = 1.6534, Efficiency = 0.8465
+
+  -- Processing Incidence = 4.69 degrees (Index 8/10) --
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.572914 degrees
+  Calculated off-design deviation  = 4.77 degrees
+Converged after 36 iterations.
+
+--- Final Rotor Exit Properties ---
+Outlet Axial Velocity (Cm2): 158.1800 m/s
+Outlet Absolute Flow Angle (alpha2): 57.66 deg
+Outlet Static Pressure (P2): 139619.95 Pa
+Outlet Static Temperature (T2): 322.81 K
+Outlet Density (rho2): 1.5068 kg/m^3
+Outlet Absolute Velocity (C2): 295.72 m/s
+Number of iterations: 36
+Converged: true
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.622319 degrees
+  Calculated off-design deviation  = 4.81 degrees
+
+--- Calculating Stator Exit Properties ---
+Stator Incidence Angle (is_stator): 17.66 deg
+Converged after 8 iterations.
+
+--- Final Stator Exit Properties ---
+Outlet Axial Velocity (Cm3): 179.2866 m/s
+Outlet Absolute Flow Angle (alpha3): -5.19 deg
+Outlet Absolute Velocity (C3): 180.02 m/s
+Outlet Static Pressure (P3): 141145.05 Pa
+Outlet Static Temperature (T3): 325.28 K
+Outlet Density (rho3): 1.5117 kg/m^3
+Number of iterations: 8
+Converged: true
+    Results: Mass Flow = 29.5914 kg/s, PR = 1.6501, Efficiency = 0.8319
+
+  -- Processing Incidence = 5.69 degrees (Index 9/10) --
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.523199 degrees
+  Calculated off-design deviation  = 4.78 degrees
+Converged after 36 iterations.
+
+--- Final Rotor Exit Properties ---
+Outlet Axial Velocity (Cm2): 154.4329 m/s
+Outlet Absolute Flow Angle (alpha2): 58.32 deg
+Outlet Static Pressure (P2): 138492.43 Pa
+Outlet Static Temperature (T2): 322.83 K
+Outlet Density (rho2): 1.4946 kg/m^3
+Outlet Absolute Velocity (C2): 294.03 m/s
+Number of iterations: 36
+Converged: true
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.590993 degrees
+  Calculated off-design deviation  = 4.83 degrees
+
+--- Calculating Stator Exit Properties ---
+Stator Incidence Angle (is_stator): 18.32 deg
+Converged after 8 iterations.
+
+--- Final Stator Exit Properties ---
+Outlet Axial Velocity (Cm3): 173.3857 m/s
+Outlet Absolute Flow Angle (alpha3): -5.17 deg
+Outlet Absolute Velocity (C3): 174.09 m/s
+Outlet Static Pressure (P3): 142082.71 Pa
+Outlet Static Temperature (T3): 327.00 K
+Outlet Density (rho3): 1.5137 kg/m^3
+Number of iterations: 8
+Converged: true
+    Results: Mass Flow = 28.6559 kg/s, PR = 1.6420, Efficiency = 0.8129
+
+  -- Processing Incidence = 6.69 degrees (Index 10/10) --
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.471861 degrees
+  Calculated off-design deviation  = 4.79 degrees
+Converged after 37 iterations.
+
+--- Final Rotor Exit Properties ---
+Outlet Axial Velocity (Cm2): 150.7994 m/s
+Outlet Absolute Flow Angle (alpha2): 58.96 deg
+Outlet Static Pressure (P2): 137092.19 Pa
+Outlet Static Temperature (T2): 322.83 K
+Outlet Density (rho2): 1.4794 kg/m^3
+Outlet Absolute Velocity (C2): 292.45 m/s
+Number of iterations: 37
+Converged: true
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.559599 degrees
+  Calculated off-design deviation  = 4.86 degrees
+
+--- Calculating Stator Exit Properties ---
+Stator Incidence Angle (is_stator): 18.96 deg
+Converged after 8 iterations.
+
+--- Final Stator Exit Properties ---
+Outlet Axial Velocity (Cm3): 168.0466 m/s
+Outlet Absolute Flow Angle (alpha3): -5.14 deg
+Outlet Absolute Velocity (C3): 168.73 m/s
+Outlet Static Pressure (P3): 142379.48 Pa
+Outlet Static Temperature (T3): 328.57 K
+Outlet Density (rho3): 1.5097 kg/m^3
+Number of iterations: 8
+Converged: true
+    Results: Mass Flow = 27.6985 kg/s, PR = 1.6289, Efficiency = 0.7894
+
+  Completed RPM = 12800 calculations
+
+====== Processing RPM = 14400 (Index 2/5) ======
+istar_minimumloss Converged in 6 iterations:
+istar_minimumloss = -1.95
+Calculated Choke Incidence Angle (ic1): -8.611179 degrees
+Calculated Stall Incidence Angle (is1): 10.271325 degrees
+
+Mach-corrected Choke Incidence (ic): -4.57 deg
+Mach-corrected Stall Incidence (is): 2.86 deg
+Mach-corrected Mid-range Incidence (im): -1.95 deg
+--- Mach Incidence Correction  Complete ---
+
+  -- Processing Incidence = -3.57 degrees (Index 1/10) --
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.926245 degrees
+  Calculated off-design deviation  = 4.87 degrees
+Converged after 49 iterations.
+
+--- Final Rotor Exit Properties ---
+Outlet Axial Velocity (Cm2): 170.0572 m/s
+Outlet Absolute Flow Angle (alpha2): 58.92 deg
+Outlet Static Pressure (P2): 166408.56 Pa
+Outlet Static Temperature (T2): 340.74 K
+Outlet Density (rho2): 1.7014 kg/m^3
+Outlet Absolute Velocity (C2): 329.39 m/s
+Number of iterations: 49
+Converged: true
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.561682 degrees
+  Calculated off-design deviation  = 4.48 degrees
+
+--- Calculating Stator Exit Properties ---
+Stator Incidence Angle (is_stator): 18.92 deg
+Converged after 12 iterations.
+
+--- Final Stator Exit Properties ---
+Outlet Axial Velocity (Cm3): 220.3106 m/s
+Outlet Absolute Flow Angle (alpha3): -5.52 deg
+Outlet Absolute Velocity (C3): 221.34 m/s
+Outlet Static Pressure (P3): 138973.68 Pa
+Outlet Static Temperature (T3): 324.21 K
+Outlet Density (rho3): 1.4934 kg/m^3
+Number of iterations: 12
+Converged: true
+    Results: Mass Flow = 35.9216 kg/s, PR = 1.7677, Efficiency = 0.8424
+
+  -- Processing Incidence = -2.86 degrees (Index 2/10) --
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.899504 degrees
+  Calculated off-design deviation  = 4.87 degrees
+Converged after 48 iterations.
+
+--- Final Rotor Exit Properties ---
+Outlet Axial Velocity (Cm2): 168.7463 m/s
+Outlet Absolute Flow Angle (alpha2): 59.12 deg
+Outlet Static Pressure (P2): 167359.17 Pa
+Outlet Static Temperature (T2): 340.23 K
+Outlet Density (rho2): 1.7137 kg/m^3
+Outlet Absolute Velocity (C2): 328.81 m/s
+Number of iterations: 48
+Converged: true
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.551496 degrees
+  Calculated off-design deviation  = 4.51 degrees
+
+--- Calculating Stator Exit Properties ---
+Stator Incidence Angle (is_stator): 19.12 deg
+Converged after 11 iterations.
+
+--- Final Stator Exit Properties ---
+Outlet Axial Velocity (Cm3): 214.2082 m/s
+Outlet Absolute Flow Angle (alpha3): -5.49 deg
+Outlet Absolute Velocity (C3): 215.20 m/s
+Outlet Static Pressure (P3): 143789.49 Pa
+Outlet Static Temperature (T3): 326.32 K
+Outlet Density (rho3): 1.5351 kg/m^3
+Number of iterations: 11
+Converged: true
+    Results: Mass Flow = 35.9029 kg/s, PR = 1.8019, Efficiency = 0.8621
+
+  -- Processing Incidence = -2.14 degrees (Index 3/10) --
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.872080 degrees
+  Calculated off-design deviation  = 4.86 degrees
+Converged after 47 iterations.
+
+--- Final Rotor Exit Properties ---
+Outlet Axial Velocity (Cm2): 168.2261 m/s
+Outlet Absolute Flow Angle (alpha2): 59.20 deg
+Outlet Static Pressure (P2): 167080.11 Pa
+Outlet Static Temperature (T2): 339.60 K
+Outlet Density (rho2): 1.7140 kg/m^3
+Outlet Absolute Velocity (C2): 328.58 m/s
+Number of iterations: 47
+Converged: true
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.547430 degrees
+  Calculated off-design deviation  = 4.54 degrees
+
+--- Calculating Stator Exit Properties ---
+Stator Incidence Angle (is_stator): 19.20 deg
+Converged after 11 iterations.
+
+--- Final Stator Exit Properties ---
+Outlet Axial Velocity (Cm3): 209.9706 m/s
+Outlet Absolute Flow Angle (alpha3): -5.46 deg
+Outlet Absolute Velocity (C3): 210.93 m/s
+Outlet Static Pressure (P3): 146999.88 Pa
+Outlet Static Temperature (T3): 327.96 K
+Outlet Density (rho3): 1.5616 kg/m^3
+Number of iterations: 11
+Converged: true
+    Results: Mass Flow = 35.7986 kg/s, PR = 1.8235, Efficiency = 0.8708
+
+  -- Processing Incidence = -1.43 degrees (Index 4/10) --
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.843959 degrees
+  Calculated off-design deviation  = 4.86 degrees
+Converged after 46 iterations.
+
+--- Final Rotor Exit Properties ---
+Outlet Axial Velocity (Cm2): 168.2522 m/s
+Outlet Absolute Flow Angle (alpha2): 59.20 deg
+Outlet Static Pressure (P2): 165865.36 Pa
+Outlet Static Temperature (T2): 338.90 K
+Outlet Density (rho2): 1.7051 kg/m^3
+Outlet Absolute Velocity (C2): 328.59 m/s
+Number of iterations: 46
+Converged: true
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.547640 degrees
+  Calculated off-design deviation  = 4.57 degrees
+
+--- Calculating Stator Exit Properties ---
+Stator Incidence Angle (is_stator): 19.20 deg
+Converged after 10 iterations.
+
+--- Final Stator Exit Properties ---
+Outlet Axial Velocity (Cm3): 207.0447 m/s
+Outlet Absolute Flow Angle (alpha3): -5.43 deg
+Outlet Absolute Velocity (C3): 207.98 m/s
+Outlet Static Pressure (P3): 148912.90 Pa
+Outlet Static Temperature (T3): 329.27 K
+Outlet Density (rho3): 1.5756 kg/m^3
+Number of iterations: 10
+Converged: true
+    Results: Mass Flow = 35.6170 kg/s, PR = 1.8343, Efficiency = 0.8704
+
+  -- Processing Incidence = -0.71 degrees (Index 5/10) --
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.815131 degrees
+  Calculated off-design deviation  = 4.86 degrees
+Converged after 45 iterations.
+
+--- Final Rotor Exit Properties ---
+Outlet Axial Velocity (Cm2): 168.2272 m/s
+Outlet Absolute Flow Angle (alpha2): 59.20 deg
+Outlet Static Pressure (P2): 164395.03 Pa
+Outlet Static Temperature (T2): 338.23 K
+Outlet Density (rho2): 1.6933 kg/m^3
+Outlet Absolute Velocity (C2): 328.58 m/s
+Number of iterations: 45
+Converged: true
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.547440 degrees
+  Calculated off-design deviation  = 4.61 degrees
+
+--- Calculating Stator Exit Properties ---
+Stator Incidence Angle (is_stator): 19.20 deg
+Converged after 10 iterations.
+
+--- Final Stator Exit Properties ---
+Outlet Axial Velocity (Cm3): 204.3348 m/s
+Outlet Absolute Flow Angle (alpha3): -5.39 deg
+Outlet Absolute Velocity (C3): 205.24 m/s
+Outlet Static Pressure (P3): 150385.34 Pa
+Outlet Static Temperature (T3): 330.50 K
+Outlet Density (rho3): 1.5852 kg/m^3
+Number of iterations: 10
+Converged: true
+    Results: Mass Flow = 35.3656 kg/s, PR = 1.8406, Efficiency = 0.8665
+
+  -- Processing Incidence = -0.00 degrees (Index 6/10) --
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.785583 degrees
+  Calculated off-design deviation  = 4.87 degrees
+Converged after 44 iterations.
+
+--- Final Rotor Exit Properties ---
+Outlet Axial Velocity (Cm2): 168.1523 m/s
+Outlet Absolute Flow Angle (alpha2): 59.22 deg
+Outlet Static Pressure (P2): 162699.59 Pa
+Outlet Static Temperature (T2): 337.60 K
+Outlet Density (rho2): 1.6790 kg/m^3
+Outlet Absolute Velocity (C2): 328.55 m/s
+Number of iterations: 44
+Converged: true
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.546838 degrees
+  Calculated off-design deviation  = 4.64 degrees
+
+--- Calculating Stator Exit Properties ---
+Stator Incidence Angle (is_stator): 19.22 deg
+Converged after 10 iterations.
+
+--- Final Stator Exit Properties ---
+Outlet Axial Velocity (Cm3): 201.8415 m/s
+Outlet Absolute Flow Angle (alpha3): -5.36 deg
+Outlet Absolute Velocity (C3): 202.73 m/s
+Outlet Static Pressure (P3): 151422.39 Pa
+Outlet Static Temperature (T3): 331.67 K
+Outlet Density (rho3): 1.5905 kg/m^3
+Number of iterations: 10
+Converged: true
+    Results: Mass Flow = 35.0513 kg/s, PR = 1.8426, Efficiency = 0.8594
+
+  -- Processing Incidence = 0.71 degrees (Index 7/10) --
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.755304 degrees
+  Calculated off-design deviation  = 4.87 degrees
+Converged after 43 iterations.
+
+--- Final Rotor Exit Properties ---
+Outlet Axial Velocity (Cm2): 168.0578 m/s
+Outlet Absolute Flow Angle (alpha2): 59.23 deg
+Outlet Static Pressure (P2): 160775.80 Pa
+Outlet Static Temperature (T2): 336.98 K
+Outlet Density (rho2): 1.6622 kg/m^3
+Outlet Absolute Velocity (C2): 328.52 m/s
+Number of iterations: 43
+Converged: true
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.546072 degrees
+  Calculated off-design deviation  = 4.68 degrees
+
+--- Calculating Stator Exit Properties ---
+Stator Incidence Angle (is_stator): 19.23 deg
+Converged after 10 iterations.
+
+--- Final Stator Exit Properties ---
+Outlet Axial Velocity (Cm3): 199.6131 m/s
+Outlet Absolute Flow Angle (alpha3): -5.32 deg
+Outlet Absolute Velocity (C3): 200.48 m/s
+Outlet Static Pressure (P3): 151989.73 Pa
+Outlet Static Temperature (T3): 332.76 K
+Outlet Density (rho3): 1.5913 kg/m^3
+Number of iterations: 10
+Converged: true
+    Results: Mass Flow = 34.6805 kg/s, PR = 1.8400, Efficiency = 0.8488
+
+  -- Processing Incidence = 1.43 degrees (Index 8/10) --
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.724280 degrees
+  Calculated off-design deviation  = 4.87 degrees
+Converged after 42 iterations.
+
+--- Final Rotor Exit Properties ---
+Outlet Axial Velocity (Cm2): 167.9728 m/s
+Outlet Absolute Flow Angle (alpha2): 59.25 deg
+Outlet Static Pressure (P2): 158620.28 Pa
+Outlet Static Temperature (T2): 336.38 K
+Outlet Density (rho2): 1.6428 kg/m^3
+Outlet Absolute Velocity (C2): 328.49 m/s
+Number of iterations: 42
+Converged: true
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.545371 degrees
+  Calculated off-design deviation  = 4.71 degrees
+
+--- Calculating Stator Exit Properties ---
+Stator Incidence Angle (is_stator): 19.25 deg
+Converged after 9 iterations.
+
+--- Final Stator Exit Properties ---
+Outlet Axial Velocity (Cm3): 197.6910 m/s
+Outlet Absolute Flow Angle (alpha3): -5.29 deg
+Outlet Absolute Velocity (C3): 198.54 m/s
+Outlet Static Pressure (P3): 152058.58 Pa
+Outlet Static Temperature (T3): 333.76 K
+Outlet Density (rho3): 1.5872 kg/m^3
+Number of iterations: 9
+Converged: true
+    Results: Mass Flow = 34.2590 kg/s, PR = 1.8327, Efficiency = 0.8349
+
+  -- Processing Incidence = 2.14 degrees (Index 9/10) --
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.692500 degrees
+  Calculated off-design deviation  = 4.87 degrees
+Converged after 40 iterations.
+
+--- Final Rotor Exit Properties ---
+Outlet Axial Velocity (Cm2): 167.9261 m/s
+Outlet Absolute Flow Angle (alpha2): 59.25 deg
+Outlet Static Pressure (P2): 156229.08 Pa
+Outlet Static Temperature (T2): 335.80 K
+Outlet Density (rho2): 1.6209 kg/m^3
+Outlet Absolute Velocity (C2): 328.47 m/s
+Number of iterations: 40
+Converged: true
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.544961 degrees
+  Calculated off-design deviation  = 4.75 degrees
+
+--- Calculating Stator Exit Properties ---
+Stator Incidence Angle (is_stator): 19.25 deg
+Converged after 9 iterations.
+
+--- Final Stator Exit Properties ---
+Outlet Axial Velocity (Cm3): 196.1171 m/s
+Outlet Absolute Flow Angle (alpha3): -5.25 deg
+Outlet Absolute Velocity (C3): 196.94 m/s
+Outlet Static Pressure (P3): 151603.19 Pa
+Outlet Static Temperature (T3): 334.67 K
+Outlet Density (rho3): 1.5781 kg/m^3
+Number of iterations: 9
+Converged: true
+    Results: Mass Flow = 33.7920 kg/s, PR = 1.8206, Efficiency = 0.8175
+
+  -- Processing Incidence = 2.86 degrees (Index 10/10) --
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.659952 degrees
+  Calculated off-design deviation  = 4.88 degrees
+Converged after 38 iterations.
+
+--- Final Rotor Exit Properties ---
+Outlet Axial Velocity (Cm2): 167.9465 m/s
+Outlet Absolute Flow Angle (alpha2): 59.25 deg
+Outlet Static Pressure (P2): 153597.73 Pa
+Outlet Static Temperature (T2): 335.22 K
+Outlet Density (rho2): 1.5963 kg/m^3
+Outlet Absolute Velocity (C2): 328.49 m/s
+Number of iterations: 38
+Converged: true
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.545068 degrees
+  Calculated off-design deviation  = 4.78 degrees
+
+--- Calculating Stator Exit Properties ---
+Stator Incidence Angle (is_stator): 19.25 deg
+Converged after 9 iterations.
+
+--- Final Stator Exit Properties ---
+Outlet Axial Velocity (Cm3): 194.9298 m/s
+Outlet Absolute Flow Angle (alpha3): -5.22 deg
+Outlet Absolute Velocity (C3): 195.74 m/s
+Outlet Static Pressure (P3): 150602.19 Pa
+Outlet Static Temperature (T3): 335.49 K
+Outlet Density (rho3): 1.5639 kg/m^3
+Number of iterations: 9
+Converged: true
+    Results: Mass Flow = 33.2844 kg/s, PR = 1.8036, Efficiency = 0.7965
+
+  Completed RPM = 14400 calculations
+
+====== Processing RPM = 16000 (Index 3/5) ======
+istar_minimumloss Converged in 6 iterations:
+istar_minimumloss = -1.95
+Calculated Choke Incidence Angle (ic1): -8.611179 degrees
+Calculated Stall Incidence Angle (is1): 10.271325 degrees
+
+Mach-corrected Choke Incidence (ic): -4.00 deg
+Mach-corrected Stall Incidence (is): 1.81 deg
+Mach-corrected Mid-range Incidence (im): -1.95 deg
+--- Mach Incidence Correction  Complete ---
+
+  -- Processing Incidence = -3.00 degrees (Index 1/10) --
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.904941 degrees
+  Calculated off-design deviation  = 4.87 degrees
+Converged after 47 iterations.
+
+--- Final Rotor Exit Properties ---
+Outlet Axial Velocity (Cm2): 148.5097 m/s
+Outlet Absolute Flow Angle (alpha2): 64.90 deg
+Outlet Static Pressure (P2): 198861.04 Pa
+Outlet Static Temperature (T2): 359.25 K
+Outlet Density (rho2): 1.9285 kg/m^3
+Outlet Absolute Velocity (C2): 350.13 m/s
+Number of iterations: 47
+Converged: true
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.236544 degrees
+  Calculated off-design deviation  = 4.18 degrees
+
+--- Calculating Stator Exit Properties ---
+Stator Incidence Angle (is_stator): 24.90 deg
+Converged after 9 iterations.
+
+--- Final Stator Exit Properties ---
+Outlet Axial Velocity (Cm3): 183.9949 m/s
+Outlet Absolute Flow Angle (alpha3): -5.82 deg
+Outlet Absolute Velocity (C3): 184.95 m/s
+Outlet Static Pressure (P3): 176676.05 Pa
+Outlet Static Temperature (T3): 347.76 K
+Outlet Density (rho3): 1.7700 kg/m^3
+Number of iterations: 9
+Converged: true
+    Results: Mass Flow = 35.5566 kg/s, PR = 2.0611, Efficiency = 0.8638
+
+  -- Processing Incidence = -2.47 degrees (Index 2/10) --
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.884586 degrees
+  Calculated off-design deviation  = 4.87 degrees
+Converged after 46 iterations.
+
+--- Final Rotor Exit Properties ---
+Outlet Axial Velocity (Cm2): 148.6274 m/s
+Outlet Absolute Flow Angle (alpha2): 64.88 deg
+Outlet Static Pressure (P2): 199321.19 Pa
+Outlet Static Temperature (T2): 358.56 K
+Outlet Density (rho2): 1.9366 kg/m^3
+Outlet Absolute Velocity (C2): 350.16 m/s
+Number of iterations: 46
+Converged: true
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.237635 degrees
+  Calculated off-design deviation  = 4.21 degrees
+
+--- Calculating Stator Exit Properties ---
+Stator Incidence Angle (is_stator): 24.88 deg
+Converged after 8 iterations.
+
+--- Final Stator Exit Properties ---
+Outlet Axial Velocity (Cm3): 181.9331 m/s
+Outlet Absolute Flow Angle (alpha3): -5.79 deg
+Outlet Absolute Velocity (C3): 182.87 m/s
+Outlet Static Pressure (P3): 180117.05 Pa
+Outlet Static Temperature (T3): 348.80 K
+Outlet Density (rho3): 1.7990 kg/m^3
+Number of iterations: 8
+Converged: true
+    Results: Mass Flow = 35.7354 kg/s, PR = 2.0926, Efficiency = 0.8763
+
+  -- Processing Incidence = -1.93 degrees (Index 3/10) --
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.863845 degrees
+  Calculated off-design deviation  = 4.86 degrees
+Converged after 46 iterations.
+
+--- Final Rotor Exit Properties ---
+Outlet Axial Velocity (Cm2): 149.5107 m/s
+Outlet Absolute Flow Angle (alpha2): 64.75 deg
+Outlet Static Pressure (P2): 198363.05 Pa
+Outlet Static Temperature (T2): 357.78 K
+Outlet Density (rho2): 1.9316 kg/m^3
+Outlet Absolute Velocity (C2): 350.47 m/s
+Number of iterations: 46
+Converged: true
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.245729 degrees
+  Calculated off-design deviation  = 4.25 degrees
+
+--- Calculating Stator Exit Properties ---
+Stator Incidence Angle (is_stator): 24.75 deg
+Converged after 8 iterations.
+
+--- Final Stator Exit Properties ---
+Outlet Axial Velocity (Cm3): 181.1251 m/s
+Outlet Absolute Flow Angle (alpha3): -5.75 deg
+Outlet Absolute Velocity (C3): 182.04 m/s
+Outlet Static Pressure (P3): 181922.38 Pa
+Outlet Static Temperature (T3): 349.58 K
+Outlet Density (rho3): 1.8130 kg/m^3
+Number of iterations: 8
+Converged: true
+    Results: Mass Flow = 35.8535 kg/s, PR = 2.1098, Efficiency = 0.8800
+
+  -- Processing Incidence = -1.40 degrees (Index 4/10) --
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.842712 degrees
+  Calculated off-design deviation  = 4.86 degrees
+Converged after 46 iterations.
+
+--- Final Rotor Exit Properties ---
+Outlet Axial Velocity (Cm2): 150.7742 m/s
+Outlet Absolute Flow Angle (alpha2): 64.55 deg
+Outlet Static Pressure (P2): 196580.22 Pa
+Outlet Static Temperature (T2): 356.95 K
+Outlet Density (rho2): 1.9186 kg/m^3
+Outlet Absolute Velocity (C2): 350.90 m/s
+Number of iterations: 46
+Converged: true
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.257219 degrees
+  Calculated off-design deviation  = 4.29 degrees
+
+--- Calculating Stator Exit Properties ---
+Stator Incidence Angle (is_stator): 24.55 deg
+Converged after 8 iterations.
+
+--- Final Stator Exit Properties ---
+Outlet Axial Velocity (Cm3): 180.9846 m/s
+Outlet Absolute Flow Angle (alpha3): -5.71 deg
+Outlet Absolute Velocity (C3): 181.89 m/s
+Outlet Static Pressure (P3): 182701.17 Pa
+Outlet Static Temperature (T3): 350.21 K
+Outlet Density (rho3): 1.8175 kg/m^3
+Number of iterations: 8
+Converged: true
+    Results: Mass Flow = 35.9146 kg/s, PR = 2.1177, Efficiency = 0.8782
+
+  -- Processing Incidence = -0.86 degrees (Index 5/10) --
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.821182 degrees
+  Calculated off-design deviation  = 4.86 degrees
+Converged after 46 iterations.
+
+--- Final Rotor Exit Properties ---
+Outlet Axial Velocity (Cm2): 152.0907 m/s
+Outlet Absolute Flow Angle (alpha2): 64.35 deg
+Outlet Static Pressure (P2): 194471.80 Pa
+Outlet Static Temperature (T2): 356.13 K
+Outlet Density (rho2): 1.9024 kg/m^3
+Outlet Absolute Velocity (C2): 351.37 m/s
+Number of iterations: 46
+Converged: true
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.269085 degrees
+  Calculated off-design deviation  = 4.33 degrees
+
+--- Calculating Stator Exit Properties ---
+Stator Incidence Angle (is_stator): 24.35 deg
+Converged after 8 iterations.
+
+--- Final Stator Exit Properties ---
+Outlet Axial Velocity (Cm3): 181.0162 m/s
+Outlet Absolute Flow Angle (alpha3): -5.67 deg
+Outlet Absolute Velocity (C3): 181.91 m/s
+Outlet Static Pressure (P3): 183011.08 Pa
+Outlet Static Temperature (T3): 350.79 K
+Outlet Density (rho3): 1.8176 kg/m^3
+Number of iterations: 8
+Converged: true
+    Results: Mass Flow = 35.9224 kg/s, PR = 2.1208, Efficiency = 0.8736
+
+  -- Processing Incidence = -0.33 degrees (Index 6/10) --
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.799251 degrees
+  Calculated off-design deviation  = 4.87 degrees
+Converged after 45 iterations.
+
+--- Final Rotor Exit Properties ---
+Outlet Axial Velocity (Cm2): 153.4823 m/s
+Outlet Absolute Flow Angle (alpha2): 64.14 deg
+Outlet Static Pressure (P2): 192039.13 Pa
+Outlet Static Temperature (T2): 355.31 K
+Outlet Density (rho2): 1.8830 kg/m^3
+Outlet Absolute Velocity (C2): 351.86 m/s
+Number of iterations: 45
+Converged: true
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.281510 degrees
+  Calculated off-design deviation  = 4.37 degrees
+
+--- Calculating Stator Exit Properties ---
+Stator Incidence Angle (is_stator): 24.14 deg
+Converged after 8 iterations.
+
+--- Final Stator Exit Properties ---
+Outlet Axial Velocity (Cm3): 181.2680 m/s
+Outlet Absolute Flow Angle (alpha3): -5.63 deg
+Outlet Absolute Velocity (C3): 182.15 m/s
+Outlet Static Pressure (P3): 182814.37 Pa
+Outlet Static Temperature (T3): 351.31 K
+Outlet Density (rho3): 1.8129 kg/m^3
+Number of iterations: 8
+Converged: true
+    Results: Mass Flow = 35.8803 kg/s, PR = 2.1189, Efficiency = 0.8663
+
+  -- Processing Incidence = 0.21 degrees (Index 7/10) --
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.776913 degrees
+  Calculated off-design deviation  = 4.87 degrees
+Converged after 45 iterations.
+
+--- Final Rotor Exit Properties ---
+Outlet Axial Velocity (Cm2): 154.9714 m/s
+Outlet Absolute Flow Angle (alpha2): 63.91 deg
+Outlet Static Pressure (P2): 189283.50 Pa
+Outlet Static Temperature (T2): 354.48 K
+Outlet Density (rho2): 1.8603 kg/m^3
+Outlet Absolute Velocity (C2): 352.39 m/s
+Number of iterations: 45
+Converged: true
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.294673 degrees
+  Calculated off-design deviation  = 4.42 degrees
+
+--- Calculating Stator Exit Properties ---
+Stator Incidence Angle (is_stator): 23.91 deg
+Converged after 8 iterations.
+
+--- Final Stator Exit Properties ---
+Outlet Axial Velocity (Cm3): 181.7881 m/s
+Outlet Absolute Flow Angle (alpha3): -5.58 deg
+Outlet Absolute Velocity (C3): 182.65 m/s
+Outlet Static Pressure (P3): 182076.94 Pa
+Outlet Static Temperature (T3): 351.76 K
+Outlet Density (rho3): 1.8033 kg/m^3
+Number of iterations: 8
+Converged: true
+    Results: Mass Flow = 35.7915 kg/s, PR = 2.1117, Efficiency = 0.8561
+
+  -- Processing Incidence = 0.74 degrees (Index 8/10) --
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.754163 degrees
+  Calculated off-design deviation  = 4.87 degrees
+Converged after 45 iterations.
+
+--- Final Rotor Exit Properties ---
+Outlet Axial Velocity (Cm2): 156.5828 m/s
+Outlet Absolute Flow Angle (alpha2): 63.67 deg
+Outlet Static Pressure (P2): 186205.35 Pa
+Outlet Static Temperature (T2): 353.65 K
+Outlet Density (rho2): 1.8343 kg/m^3
+Outlet Absolute Velocity (C2): 352.98 m/s
+Number of iterations: 45
+Converged: true
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.308767 degrees
+  Calculated off-design deviation  = 4.46 degrees
+
+--- Calculating Stator Exit Properties ---
+Stator Incidence Angle (is_stator): 23.67 deg
+Converged after 8 iterations.
+
+--- Final Stator Exit Properties ---
+Outlet Axial Velocity (Cm3): 182.6262 m/s
+Outlet Absolute Flow Angle (alpha3): -5.54 deg
+Outlet Absolute Velocity (C3): 183.48 m/s
+Outlet Static Pressure (P3): 180767.61 Pa
+Outlet Static Temperature (T3): 352.15 K
+Outlet Density (rho3): 1.7884 kg/m^3
+Number of iterations: 8
+Converged: true
+    Results: Mass Flow = 35.6593 kg/s, PR = 2.0992, Efficiency = 0.8429
+
+  -- Processing Incidence = 1.28 degrees (Index 9/10) --
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.730996 degrees
+  Calculated off-design deviation  = 4.87 degrees
+Converged after 44 iterations.
+
+--- Final Rotor Exit Properties ---
+Outlet Axial Velocity (Cm2): 158.3440 m/s
+Outlet Absolute Flow Angle (alpha2): 63.40 deg
+Outlet Static Pressure (P2): 182804.20 Pa
+Outlet Static Temperature (T2): 352.81 K
+Outlet Density (rho2): 1.8051 kg/m^3
+Outlet Absolute Velocity (C2): 353.63 m/s
+Number of iterations: 44
+Converged: true
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.323992 degrees
+  Calculated off-design deviation  = 4.50 degrees
+
+--- Calculating Stator Exit Properties ---
+Stator Incidence Angle (is_stator): 23.40 deg
+Converged after 8 iterations.
+
+--- Final Stator Exit Properties ---
+Outlet Axial Velocity (Cm3): 183.8358 m/s
+Outlet Absolute Flow Angle (alpha3): -5.50 deg
+Outlet Absolute Velocity (C3): 184.68 m/s
+Outlet Static Pressure (P3): 178857.80 Pa
+Outlet Static Temperature (T3): 352.44 K
+Outlet Density (rho3): 1.7680 kg/m^3
+Number of iterations: 8
+Converged: true
+    Results: Mass Flow = 35.4865 kg/s, PR = 2.0811, Efficiency = 0.8267
+
+  -- Processing Incidence = 1.81 degrees (Index 10/10) --
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.707407 degrees
+  Calculated off-design deviation  = 4.87 degrees
+Converged after 44 iterations.
+
+--- Final Rotor Exit Properties ---
+Outlet Axial Velocity (Cm2): 160.2851 m/s
+Outlet Absolute Flow Angle (alpha2): 63.11 deg
+Outlet Static Pressure (P2): 179078.66 Pa
+Outlet Static Temperature (T2): 351.94 K
+Outlet Density (rho2): 1.7727 kg/m^3
+Outlet Absolute Velocity (C2): 354.35 m/s
+Number of iterations: 44
+Converged: true
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.340561 degrees
+  Calculated off-design deviation  = 4.55 degrees
+
+--- Calculating Stator Exit Properties ---
+Stator Incidence Angle (is_stator): 23.11 deg
+Converged after 8 iterations.
+
+--- Final Stator Exit Properties ---
+Outlet Axial Velocity (Cm3): 185.4772 m/s
+Outlet Absolute Flow Angle (alpha3): -5.45 deg
+Outlet Absolute Velocity (C3): 186.32 m/s
+Outlet Static Pressure (P3): 176321.13 Pa
+Outlet Static Temperature (T3): 352.64 K
+Outlet Density (rho3): 1.7420 kg/m^3
+Number of iterations: 8
+Converged: true
+    Results: Mass Flow = 35.2760 kg/s, PR = 2.0573, Efficiency = 0.8074
+
+  Completed RPM = 16000 calculations
+
+====== Processing RPM = 17600 (Index 4/5) ======
+istar_minimumloss Converged in 6 iterations:
+istar_minimumloss = -1.95
+Calculated Choke Incidence Angle (ic1): -8.611179 degrees
+Calculated Stall Incidence Angle (is1): 10.271325 degrees
+
+Mach-corrected Choke Incidence (ic): -3.53 deg
+Mach-corrected Stall Incidence (is): 0.95 deg
+Mach-corrected Mid-range Incidence (im): -1.95 deg
+--- Mach Incidence Correction  Complete ---
+
+  -- Processing Incidence = -2.53 degrees (Index 1/10) --
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.887085 degrees
+  Calculated off-design deviation  = 4.87 degrees
+Converged after 45 iterations.
+
+--- Final Rotor Exit Properties ---
+Outlet Axial Velocity (Cm2): 127.2655 m/s
+Outlet Absolute Flow Angle (alpha2): 70.12 deg
+Outlet Static Pressure (P2): 238119.77 Pa
+Outlet Static Temperature (T2): 378.77 K
+Outlet Density (rho2): 2.1902 kg/m^3
+Outlet Absolute Velocity (C2): 374.32 m/s
+Number of iterations: 45
+Converged: true
+
+--- Final Result ---
+delta* (Design Deviation Angle): 3.900368 degrees
+  Calculated off-design deviation  = 3.86 degrees
+
+--- Calculating Stator Exit Properties ---
+Stator Incidence Angle (is_stator): 30.12 deg
+Converged after 7 iterations.
+
+--- Final Stator Exit Properties ---
+Outlet Axial Velocity (Cm3): 152.8867 m/s
+Outlet Absolute Flow Angle (alpha3): -6.14 deg
+Outlet Absolute Velocity (C3): 153.77 m/s
+Outlet Static Pressure (P3): 220795.21 Pa
+Outlet Static Temperature (T3): 371.05 K
+Outlet Density (rho3): 2.0731 kg/m^3
+Number of iterations: 7
+Converged: true
+    Results: Mass Flow = 34.6049 kg/s, PR = 2.4307, Efficiency = 0.8806
+
+  -- Processing Incidence = -2.15 degrees (Index 2/10) --
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.872156 degrees
+  Calculated off-design deviation  = 4.86 degrees
+Converged after 44 iterations.
+
+--- Final Rotor Exit Properties ---
+Outlet Axial Velocity (Cm2): 128.1669 m/s
+Outlet Absolute Flow Angle (alpha2): 69.99 deg
+Outlet Static Pressure (P2): 237962.84 Pa
+Outlet Static Temperature (T2): 378.08 K
+Outlet Density (rho2): 2.1927 kg/m^3
+Outlet Absolute Velocity (C2): 374.55 m/s
+Number of iterations: 44
+Converged: true
+
+--- Final Result ---
+delta* (Design Deviation Angle): 3.909648 degrees
+  Calculated off-design deviation  = 3.90 degrees
+
+--- Calculating Stator Exit Properties ---
+Stator Incidence Angle (is_stator): 29.99 deg
+Converged after 7 iterations.
+
+--- Final Stator Exit Properties ---
+Outlet Axial Velocity (Cm3): 152.7797 m/s
+Outlet Absolute Flow Angle (alpha3): -6.10 deg
+Outlet Absolute Velocity (C3): 153.65 m/s
+Outlet Static Pressure (P3): 223111.81 Pa
+Outlet Static Temperature (T3): 371.61 K
+Outlet Density (rho3): 2.0917 kg/m^3
+Number of iterations: 7
+Converged: true
+    Results: Mass Flow = 34.8906 kg/s, PR = 2.4554, Efficiency = 0.8869
+
+  -- Processing Incidence = -1.76 degrees (Index 3/10) --
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.857023 degrees
+  Calculated off-design deviation  = 4.86 degrees
+Converged after 44 iterations.
+
+--- Final Rotor Exit Properties ---
+Outlet Axial Velocity (Cm2): 129.6676 m/s
+Outlet Absolute Flow Angle (alpha2): 69.77 deg
+Outlet Static Pressure (P2): 236402.71 Pa
+Outlet Static Temperature (T2): 377.32 K
+Outlet Density (rho2): 2.1827 kg/m^3
+Outlet Absolute Velocity (C2): 374.94 m/s
+Number of iterations: 44
+Converged: true
+
+--- Final Result ---
+delta* (Design Deviation Angle): 3.924991 degrees
+  Calculated off-design deviation  = 3.94 degrees
+
+--- Calculating Stator Exit Properties ---
+Stator Incidence Angle (is_stator): 29.77 deg
+Converged after 7 iterations.
+
+--- Final Stator Exit Properties ---
+Outlet Axial Velocity (Cm3): 153.5191 m/s
+Outlet Absolute Flow Angle (alpha3): -6.06 deg
+Outlet Absolute Velocity (C3): 154.38 m/s
+Outlet Static Pressure (P3): 223855.65 Pa
+Outlet Static Temperature (T3): 372.02 K
+Outlet Density (rho3): 2.0964 kg/m^3
+Number of iterations: 7
+Converged: true
+    Results: Mass Flow = 35.1383 kg/s, PR = 2.4658, Efficiency = 0.8868
+
+  -- Processing Incidence = -1.37 degrees (Index 4/10) --
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.841684 degrees
+  Calculated off-design deviation  = 4.86 degrees
+Converged after 44 iterations.
+
+--- Final Rotor Exit Properties ---
+Outlet Axial Velocity (Cm2): 131.3491 m/s
+Outlet Absolute Flow Angle (alpha2): 69.52 deg
+Outlet Static Pressure (P2): 234295.74 Pa
+Outlet Static Temperature (T2): 376.55 K
+Outlet Density (rho2): 2.1677 kg/m^3
+Outlet Absolute Velocity (C2): 375.38 m/s
+Number of iterations: 44
+Converged: true
+
+--- Final Result ---
+delta* (Design Deviation Angle): 3.942027 degrees
+  Calculated off-design deviation  = 3.98 degrees
+
+--- Calculating Stator Exit Properties ---
+Stator Incidence Angle (is_stator): 29.52 deg
+Converged after 7 iterations.
+
+--- Final Stator Exit Properties ---
+Outlet Axial Velocity (Cm3): 154.5319 m/s
+Outlet Absolute Flow Angle (alpha3): -6.02 deg
+Outlet Absolute Velocity (C3): 155.39 m/s
+Outlet Static Pressure (P3): 223931.34 Pa
+Outlet Static Temperature (T3): 372.36 K
+Outlet Density (rho3): 2.0951 kg/m^3
+Number of iterations: 7
+Converged: true
+    Results: Mass Flow = 35.3493 kg/s, PR = 2.4699, Efficiency = 0.8841
+
+  -- Processing Incidence = -0.99 degrees (Index 5/10) --
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.826138 degrees
+  Calculated off-design deviation  = 4.86 degrees
+Converged after 44 iterations.
+
+--- Final Rotor Exit Properties ---
+Outlet Axial Velocity (Cm2): 133.1545 m/s
+Outlet Absolute Flow Angle (alpha2): 69.25 deg
+Outlet Static Pressure (P2): 231784.89 Pa
+Outlet Static Temperature (T2): 375.76 K
+Outlet Density (rho2): 2.1490 kg/m^3
+Outlet Absolute Velocity (C2): 375.86 m/s
+Number of iterations: 44
+Converged: true
+
+--- Final Result ---
+delta* (Design Deviation Angle): 3.960134 degrees
+  Calculated off-design deviation  = 4.02 degrees
+
+--- Calculating Stator Exit Properties ---
+Stator Incidence Angle (is_stator): 29.25 deg
+Converged after 7 iterations.
+
+--- Final Stator Exit Properties ---
+Outlet Axial Velocity (Cm3): 155.7500 m/s
+Outlet Absolute Flow Angle (alpha3): -5.98 deg
+Outlet Absolute Velocity (C3): 156.60 m/s
+Outlet Static Pressure (P3): 223463.77 Pa
+Outlet Static Temperature (T3): 372.66 K
+Outlet Density (rho3): 2.0891 kg/m^3
+Number of iterations: 7
+Converged: true
+    Results: Mass Flow = 35.5253 kg/s, PR = 2.4687, Efficiency = 0.8791
+
+  -- Processing Incidence = -0.60 degrees (Index 6/10) --
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.810382 degrees
+  Calculated off-design deviation  = 4.86 degrees
+Converged after 44 iterations.
+
+--- Final Rotor Exit Properties ---
+Outlet Axial Velocity (Cm2): 135.1009 m/s
+Outlet Absolute Flow Angle (alpha2): 68.97 deg
+Outlet Static Pressure (P2): 228872.16 Pa
+Outlet Static Temperature (T2): 374.97 K
+Outlet Density (rho2): 2.1265 kg/m^3
+Outlet Absolute Velocity (C2): 376.39 m/s
+Number of iterations: 44
+Converged: true
+
+--- Final Result ---
+delta* (Design Deviation Angle): 3.979448 degrees
+  Calculated off-design deviation  = 4.07 degrees
+
+--- Calculating Stator Exit Properties ---
+Stator Incidence Angle (is_stator): 28.97 deg
+Converged after 7 iterations.
+
+--- Final Stator Exit Properties ---
+Outlet Axial Velocity (Cm3): 157.2104 m/s
+Outlet Absolute Flow Angle (alpha3): -5.93 deg
+Outlet Absolute Velocity (C3): 158.06 m/s
+Outlet Static Pressure (P3): 222418.83 Pa
+Outlet Static Temperature (T3): 372.90 K
+Outlet Density (rho3): 2.0780 kg/m^3
+Number of iterations: 7
+Converged: true
+    Results: Mass Flow = 35.6674 kg/s, PR = 2.4621, Efficiency = 0.8719
+
+  -- Processing Incidence = -0.21 degrees (Index 7/10) --
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.794415 degrees
+  Calculated off-design deviation  = 4.87 degrees
+Converged after 44 iterations.
+
+--- Final Rotor Exit Properties ---
+Outlet Axial Velocity (Cm2): 137.2079 m/s
+Outlet Absolute Flow Angle (alpha2): 68.66 deg
+Outlet Static Pressure (P2): 225559.09 Pa
+Outlet Static Temperature (T2): 374.15 K
+Outlet Density (rho2): 2.1003 kg/m^3
+Outlet Absolute Velocity (C2): 376.98 m/s
+Number of iterations: 44
+Converged: true
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.000112 degrees
+  Calculated off-design deviation  = 4.11 degrees
+
+--- Calculating Stator Exit Properties ---
+Stator Incidence Angle (is_stator): 28.66 deg
+Converged after 7 iterations.
+
+--- Final Stator Exit Properties ---
+Outlet Axial Velocity (Cm3): 158.9530 m/s
+Outlet Absolute Flow Angle (alpha3): -5.89 deg
+Outlet Absolute Velocity (C3): 159.80 m/s
+Outlet Static Pressure (P3): 220764.73 Pa
+Outlet Static Temperature (T3): 373.08 K
+Outlet Density (rho3): 2.0615 kg/m^3
+Number of iterations: 7
+Converged: true
+    Results: Mass Flow = 35.7771 kg/s, PR = 2.4498, Efficiency = 0.8623
+
+  -- Processing Incidence = 0.17 degrees (Index 8/10) --
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.778234 degrees
+  Calculated off-design deviation  = 4.87 degrees
+Converged after 44 iterations.
+
+--- Final Rotor Exit Properties ---
+Outlet Axial Velocity (Cm2): 139.4979 m/s
+Outlet Absolute Flow Angle (alpha2): 68.32 deg
+Outlet Static Pressure (P2): 221846.52 Pa
+Outlet Static Temperature (T2): 373.31 K
+Outlet Density (rho2): 2.0703 kg/m^3
+Outlet Absolute Velocity (C2): 377.63 m/s
+Number of iterations: 44
+Converged: true
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.022287 degrees
+  Calculated off-design deviation  = 4.16 degrees
+
+--- Calculating Stator Exit Properties ---
+Stator Incidence Angle (is_stator): 28.32 deg
+Converged after 7 iterations.
+
+--- Final Stator Exit Properties ---
+Outlet Axial Velocity (Cm3): 161.0221 m/s
+Outlet Absolute Flow Angle (alpha3): -5.84 deg
+Outlet Absolute Velocity (C3): 161.86 m/s
+Outlet Static Pressure (P3): 218471.91 Pa
+Outlet Static Temperature (T3): 373.19 K
+Outlet Density (rho3): 2.0395 kg/m^3
+Number of iterations: 7
+Converged: true
+    Results: Mass Flow = 35.8557 kg/s, PR = 2.4315, Efficiency = 0.8503
+
+  -- Processing Incidence = 0.56 degrees (Index 9/10) --
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.761838 degrees
+  Calculated off-design deviation  = 4.87 degrees
+Converged after 44 iterations.
+
+--- Final Rotor Exit Properties ---
+Outlet Axial Velocity (Cm2): 141.9968 m/s
+Outlet Absolute Flow Angle (alpha2): 67.96 deg
+Outlet Static Pressure (P2): 217734.39 Pa
+Outlet Static Temperature (T2): 372.45 K
+Outlet Density (rho2): 2.0367 kg/m^3
+Outlet Absolute Velocity (C2): 378.35 m/s
+Number of iterations: 44
+Converged: true
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.046151 degrees
+  Calculated off-design deviation  = 4.21 degrees
+
+--- Calculating Stator Exit Properties ---
+Stator Incidence Angle (is_stator): 27.96 deg
+Converged after 7 iterations.
+
+--- Final Stator Exit Properties ---
+Outlet Axial Velocity (Cm3): 163.4685 m/s
+Outlet Absolute Flow Angle (alpha3): -5.79 deg
+Outlet Absolute Velocity (C3): 164.31 m/s
+Outlet Static Pressure (P3): 215512.75 Pa
+Outlet Static Temperature (T3): 373.22 K
+Outlet Density (rho3): 2.0117 kg/m^3
+Number of iterations: 7
+Converged: true
+    Results: Mass Flow = 35.9045 kg/s, PR = 2.4072, Efficiency = 0.8358
+
+  -- Processing Incidence = 0.95 degrees (Index 10/10) --
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.745224 degrees
+  Calculated off-design deviation  = 4.87 degrees
+Converged after 44 iterations.
+
+--- Final Rotor Exit Properties ---
+Outlet Axial Velocity (Cm2): 144.7350 m/s
+Outlet Absolute Flow Angle (alpha2): 67.56 deg
+Outlet Static Pressure (P2): 213221.59 Pa
+Outlet Static Temperature (T2): 371.55 K
+Outlet Density (rho2): 1.9993 kg/m^3
+Outlet Absolute Velocity (C2): 379.17 m/s
+Number of iterations: 44
+Converged: true
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.071902 degrees
+  Calculated off-design deviation  = 4.26 degrees
+
+--- Calculating Stator Exit Properties ---
+Stator Incidence Angle (is_stator): 27.56 deg
+Converged after 7 iterations.
+
+--- Final Stator Exit Properties ---
+Outlet Axial Velocity (Cm3): 166.3510 m/s
+Outlet Absolute Flow Angle (alpha3): -5.74 deg
+Outlet Absolute Velocity (C3): 167.19 m/s
+Outlet Static Pressure (P3): 211861.27 Pa
+Outlet Static Temperature (T3): 373.16 K
+Outlet Density (rho3): 1.9780 kg/m^3
+Number of iterations: 7
+Converged: true
+    Results: Mass Flow = 35.9247 kg/s, PR = 2.3767, Efficiency = 0.8187
+
+  Completed RPM = 17600 calculations
+
+====== Processing RPM = 19200 (Index 5/5) ======
+istar_minimumloss Converged in 6 iterations:
+istar_minimumloss = -1.95
+Calculated Choke Incidence Angle (ic1): -8.611179 degrees
+Calculated Stall Incidence Angle (is1): 10.271325 degrees
+
+Mach-corrected Choke Incidence (ic): -3.16 deg
+Mach-corrected Stall Incidence (is): 0.26 deg
+Mach-corrected Mid-range Incidence (im): -1.95 deg
+--- Mach Incidence Correction  Complete ---
+
+  -- Processing Incidence = -2.16 degrees (Index 1/10) --
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.872573 degrees
+  Calculated off-design deviation  = 4.86 degrees
+Converged after 43 iterations.
+
+--- Final Rotor Exit Properties ---
+Outlet Axial Velocity (Cm2): 107.1104 m/s
+Outlet Absolute Flow Angle (alpha2): 74.52 deg
+Outlet Static Pressure (P2): 285025.46 Pa
+Outlet Static Temperature (T2): 399.28 K
+Outlet Density (rho2): 2.4870 kg/m^3
+Outlet Absolute Velocity (C2): 401.42 m/s
+Number of iterations: 43
+Converged: true
+
+--- Final Result ---
+delta* (Design Deviation Angle): 3.575089 degrees
+  Calculated off-design deviation  = 3.56 degrees
+
+--- Calculating Stator Exit Properties ---
+Stator Incidence Angle (is_stator): 34.52 deg
+Converged after 6 iterations.
+
+--- Final Stator Exit Properties ---
+Outlet Axial Velocity (Cm3): 125.7707 m/s
+Outlet Absolute Flow Angle (alpha3): -6.44 deg
+Outlet Absolute Velocity (C3): 126.57 m/s
+Outlet Static Pressure (P3): 272831.31 Pa
+Outlet Static Temperature (T3): 394.67 K
+Outlet Density (rho3): 2.4084 kg/m^3
+Number of iterations: 6
+Converged: true
+    Results: Mass Flow = 33.0712 kg/s, PR = 2.8879, Efficiency = 0.8925
+
+  -- Processing Incidence = -1.89 degrees (Index 2/10) --
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.862101 degrees
+  Calculated off-design deviation  = 4.86 degrees
+Converged after 43 iterations.
+
+--- Final Rotor Exit Properties ---
+Outlet Axial Velocity (Cm2): 108.4016 m/s
+Outlet Absolute Flow Angle (alpha2): 74.34 deg
+Outlet Static Pressure (P2): 283886.41 Pa
+Outlet Static Temperature (T2): 398.67 K
+Outlet Density (rho2): 2.4808 kg/m^3
+Outlet Absolute Velocity (C2): 401.66 m/s
+Number of iterations: 43
+Converged: true
+
+--- Final Result ---
+delta* (Design Deviation Angle): 3.589338 degrees
+  Calculated off-design deviation  = 3.59 degrees
+
+--- Calculating Stator Exit Properties ---
+Stator Incidence Angle (is_stator): 34.34 deg
+Converged after 6 iterations.
+
+--- Final Stator Exit Properties ---
+Outlet Axial Velocity (Cm3): 126.6606 m/s
+Outlet Absolute Flow Angle (alpha3): -6.41 deg
+Outlet Absolute Velocity (C3): 127.46 m/s
+Outlet Static Pressure (P3): 273714.56 Pa
+Outlet Static Temperature (T3): 394.98 K
+Outlet Density (rho3): 2.4143 kg/m^3
+Number of iterations: 6
+Converged: true
+    Results: Mass Flow = 33.3869 kg/s, PR = 2.8999, Efficiency = 0.8933
+
+  -- Processing Incidence = -1.62 degrees (Index 3/10) --
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.851531 degrees
+  Calculated off-design deviation  = 4.86 degrees
+Converged after 43 iterations.
+
+--- Final Rotor Exit Properties ---
+Outlet Axial Velocity (Cm2): 109.9233 m/s
+Outlet Absolute Flow Angle (alpha2): 74.13 deg
+Outlet Static Pressure (P2): 281983.95 Pa
+Outlet Static Temperature (T2): 398.04 K
+Outlet Density (rho2): 2.4681 kg/m^3
+Outlet Absolute Velocity (C2): 401.94 m/s
+Number of iterations: 43
+Converged: true
+
+--- Final Result ---
+delta* (Design Deviation Angle): 3.606019 degrees
+  Calculated off-design deviation  = 3.63 degrees
+
+--- Calculating Stator Exit Properties ---
+Stator Incidence Angle (is_stator): 34.13 deg
+Converged after 6 iterations.
+
+--- Final Stator Exit Properties ---
+Outlet Axial Velocity (Cm3): 127.8537 m/s
+Outlet Absolute Flow Angle (alpha3): -6.37 deg
+Outlet Absolute Velocity (C3): 128.65 m/s
+Outlet Static Pressure (P3): 273732.00 Pa
+Outlet Static Temperature (T3): 395.23 K
+Outlet Density (rho3): 2.4129 kg/m^3
+Number of iterations: 6
+Converged: true
+    Results: Mass Flow = 33.6818 kg/s, PR = 2.9038, Efficiency = 0.8914
+
+  -- Processing Incidence = -1.35 degrees (Index 4/10) --
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.840861 degrees
+  Calculated off-design deviation  = 4.86 degrees
+Converged after 43 iterations.
+
+--- Final Rotor Exit Properties ---
+Outlet Axial Velocity (Cm2): 111.5669 m/s
+Outlet Absolute Flow Angle (alpha2): 73.90 deg
+Outlet Static Pressure (P2): 279644.55 Pa
+Outlet Static Temperature (T2): 397.40 K
+Outlet Density (rho2): 2.4515 kg/m^3
+Outlet Absolute Velocity (C2): 402.25 m/s
+Number of iterations: 43
+Converged: true
+
+--- Final Result ---
+delta* (Design Deviation Angle): 3.623900 degrees
+  Calculated off-design deviation  = 3.67 degrees
+
+--- Calculating Stator Exit Properties ---
+Stator Incidence Angle (is_stator): 33.90 deg
+Converged after 6 iterations.
+
+--- Final Stator Exit Properties ---
+Outlet Axial Velocity (Cm3): 129.2150 m/s
+Outlet Absolute Flow Angle (alpha3): -6.33 deg
+Outlet Absolute Velocity (C3): 130.01 m/s
+Outlet Static Pressure (P3): 273208.94 Pa
+Outlet Static Temperature (T3): 395.46 K
+Outlet Density (rho3): 2.4069 kg/m^3
+Number of iterations: 6
+Converged: true
+    Results: Mass Flow = 33.9563 kg/s, PR = 2.9025, Efficiency = 0.8879
+
+  -- Processing Incidence = -1.08 degrees (Index 5/10) --
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.830091 degrees
+  Calculated off-design deviation  = 4.86 degrees
+Converged after 43 iterations.
+
+--- Final Rotor Exit Properties ---
+Outlet Axial Velocity (Cm2): 113.3437 m/s
+Outlet Absolute Flow Angle (alpha2): 73.65 deg
+Outlet Static Pressure (P2): 276869.74 Pa
+Outlet Static Temperature (T2): 396.75 K
+Outlet Density (rho2): 2.4312 kg/m^3
+Outlet Absolute Velocity (C2): 402.59 m/s
+Number of iterations: 43
+Converged: true
+
+--- Final Result ---
+delta* (Design Deviation Angle): 3.643071 degrees
+  Calculated off-design deviation  = 3.71 degrees
+
+--- Calculating Stator Exit Properties ---
+Stator Incidence Angle (is_stator): 33.65 deg
+Converged after 6 iterations.
+
+--- Final Stator Exit Properties ---
+Outlet Axial Velocity (Cm3): 130.7679 m/s
+Outlet Absolute Flow Angle (alpha3): -6.29 deg
+Outlet Absolute Velocity (C3): 131.56 m/s
+Outlet Static Pressure (P3): 272115.35 Pa
+Outlet Static Temperature (T3): 395.64 K
+Outlet Density (rho3): 2.3961 kg/m^3
+Number of iterations: 6
+Converged: true
+    Results: Mass Flow = 34.2109 kg/s, PR = 2.8958, Efficiency = 0.8828
+
+  -- Processing Incidence = -0.81 degrees (Index 6/10) --
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.819221 degrees
+  Calculated off-design deviation  = 4.86 degrees
+Converged after 43 iterations.
+
+--- Final Rotor Exit Properties ---
+Outlet Axial Velocity (Cm2): 115.2668 m/s
+Outlet Absolute Flow Angle (alpha2): 73.38 deg
+Outlet Static Pressure (P2): 273660.82 Pa
+Outlet Static Temperature (T2): 396.09 K
+Outlet Density (rho2): 2.4070 kg/m^3
+Outlet Absolute Velocity (C2): 402.97 m/s
+Number of iterations: 43
+Converged: true
+
+--- Final Result ---
+delta* (Design Deviation Angle): 3.663634 degrees
+  Calculated off-design deviation  = 3.75 degrees
+
+--- Calculating Stator Exit Properties ---
+Stator Incidence Angle (is_stator): 33.38 deg
+Converged after 6 iterations.
+
+--- Final Stator Exit Properties ---
+Outlet Axial Velocity (Cm3): 132.5380 m/s
+Outlet Absolute Flow Angle (alpha3): -6.25 deg
+Outlet Absolute Velocity (C3): 133.33 m/s
+Outlet Static Pressure (P3): 270423.25 Pa
+Outlet Static Temperature (T3): 395.78 K
+Outlet Density (rho3): 2.3804 kg/m^3
+Number of iterations: 6
+Converged: true
+    Results: Mass Flow = 34.4459 kg/s, PR = 2.8836, Efficiency = 0.8758
+
+  -- Processing Incidence = -0.55 degrees (Index 7/10) --
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.808249 degrees
+  Calculated off-design deviation  = 4.86 degrees
+Converged after 43 iterations.
+
+--- Final Rotor Exit Properties ---
+Outlet Axial Velocity (Cm2): 117.3509 m/s
+Outlet Absolute Flow Angle (alpha2): 73.09 deg
+Outlet Static Pressure (P2): 270018.74 Pa
+Outlet Static Temperature (T2): 395.40 K
+Outlet Density (rho2): 2.3791 kg/m^3
+Outlet Absolute Velocity (C2): 403.39 m/s
+Number of iterations: 43
+Converged: true
+
+--- Final Result ---
+delta* (Design Deviation Angle): 3.685703 degrees
+  Calculated off-design deviation  = 3.79 degrees
+
+--- Calculating Stator Exit Properties ---
+Stator Incidence Angle (is_stator): 33.09 deg
+Converged after 6 iterations.
+
+--- Final Stator Exit Properties ---
+Outlet Axial Velocity (Cm3): 134.5536 m/s
+Outlet Absolute Flow Angle (alpha3): -6.21 deg
+Outlet Absolute Velocity (C3): 135.35 m/s
+Outlet Static Pressure (P3): 268106.74 Pa
+Outlet Static Temperature (T3): 395.88 K
+Outlet Density (rho3): 2.3594 kg/m^3
+Number of iterations: 6
+Converged: true
+    Results: Mass Flow = 34.6619 kg/s, PR = 2.8655, Efficiency = 0.8671
+
+  -- Processing Incidence = -0.28 degrees (Index 8/10) --
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.797175 degrees
+  Calculated off-design deviation  = 4.87 degrees
+Converged after 43 iterations.
+
+--- Final Rotor Exit Properties ---
+Outlet Axial Velocity (Cm2): 119.6136 m/s
+Outlet Absolute Flow Angle (alpha2): 72.77 deg
+Outlet Static Pressure (P2): 265943.94 Pa
+Outlet Static Temperature (T2): 394.70 K
+Outlet Density (rho2): 2.3474 kg/m^3
+Outlet Absolute Velocity (C2): 403.87 m/s
+Number of iterations: 43
+Converged: true
+
+--- Final Result ---
+delta* (Design Deviation Angle): 3.709409 degrees
+  Calculated off-design deviation  = 3.83 degrees
+
+--- Calculating Stator Exit Properties ---
+Stator Incidence Angle (is_stator): 32.77 deg
+Converged after 6 iterations.
+
+--- Final Stator Exit Properties ---
+Outlet Axial Velocity (Cm3): 136.8468 m/s
+Outlet Absolute Flow Angle (alpha3): -6.17 deg
+Outlet Absolute Velocity (C3): 137.64 m/s
+Outlet Static Pressure (P3): 265141.99 Pa
+Outlet Static Temperature (T3): 395.92 K
+Outlet Density (rho3): 2.3331 kg/m^3
+Number of iterations: 6
+Converged: true
+    Results: Mass Flow = 34.8591 kg/s, PR = 2.8414, Efficiency = 0.8565
+
+  -- Processing Incidence = -0.01 degrees (Index 9/10) --
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.785999 degrees
+  Calculated off-design deviation  = 4.87 degrees
+Converged after 43 iterations.
+
+--- Final Rotor Exit Properties ---
+Outlet Axial Velocity (Cm2): 122.0750 m/s
+Outlet Absolute Flow Angle (alpha2): 72.43 deg
+Outlet Static Pressure (P2): 261436.25 Pa
+Outlet Static Temperature (T2): 393.97 K
+Outlet Density (rho2): 2.3119 kg/m^3
+Outlet Absolute Velocity (C2): 404.39 m/s
+Number of iterations: 43
+Converged: true
+
+--- Final Result ---
+delta* (Design Deviation Angle): 3.734898 degrees
+  Calculated off-design deviation  = 3.88 degrees
+
+--- Calculating Stator Exit Properties ---
+Stator Incidence Angle (is_stator): 32.43 deg
+Converged after 6 iterations.
+
+--- Final Stator Exit Properties ---
+Outlet Axial Velocity (Cm3): 139.4544 m/s
+Outlet Absolute Flow Angle (alpha3): -6.12 deg
+Outlet Absolute Velocity (C3): 140.25 m/s
+Outlet Static Pressure (P3): 261507.22 Pa
+Outlet Static Temperature (T3): 395.90 K
+Outlet Density (rho3): 2.3012 kg/m^3
+Number of iterations: 6
+Converged: true
+    Results: Mass Flow = 35.0382 kg/s, PR = 2.8112, Efficiency = 0.8439
+
+  -- Processing Incidence = 0.26 degrees (Index 10/10) --
+
+--- Final Result ---
+delta* (Design Deviation Angle): 4.774720 degrees
+  Calculated off-design deviation  = 4.87 degrees
+Converged after 44 iterations.
+
+--- Final Rotor Exit Properties ---
+Outlet Axial Velocity (Cm2): 124.7587 m/s
+Outlet Absolute Flow Angle (alpha2): 72.06 deg
+Outlet Static Pressure (P2): 256494.82 Pa
+Outlet Static Temperature (T2): 393.21 K
+Outlet Density (rho2): 2.2725 kg/m^3
+Outlet Absolute Velocity (C2): 404.98 m/s
+Number of iterations: 44
+Converged: true
+
+--- Final Result ---
+delta* (Design Deviation Angle): 3.762336 degrees
+  Calculated off-design deviation  = 3.92 degrees
+
+--- Calculating Stator Exit Properties ---
+Stator Incidence Angle (is_stator): 32.06 deg
+Converged after 6 iterations.
+
+--- Final Stator Exit Properties ---
+Outlet Axial Velocity (Cm3): 142.4192 m/s
+Outlet Absolute Flow Angle (alpha3): -6.08 deg
+Outlet Absolute Velocity (C3): 143.22 m/s
+Outlet Static Pressure (P3): 257182.47 Pa
+Outlet Static Temperature (T3): 395.81 K
+Outlet Density (rho3): 2.2637 kg/m^3
+Number of iterations: 6
+Converged: true
+    Results: Mass Flow = 35.1994 kg/s, PR = 2.7748, Efficiency = 0.8293
+
+  Completed RPM = 19200 calculations
+
+====== All calculations complete, generating plots ======
+>> 
